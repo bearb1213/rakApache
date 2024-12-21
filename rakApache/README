@@ -8,3 +8,5 @@ ce projet est dans le but de nos examen de programmation Reseau donner par notre
 pour lancer l'application excecter ./launch.sh
 
 En cas de corruption du fichier il y a des fichiers backup dans bkp
+
+pour l'installer entrer dans installation et excecuter en tant que sudo install.sh
